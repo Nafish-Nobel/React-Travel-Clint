@@ -1,4 +1,4 @@
-# Travel Gone
+# Travel Gone.
 
 This Is my project [Travel Gone](https://travel-goro.web.app/).
 
